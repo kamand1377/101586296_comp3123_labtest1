@@ -1,0 +1,8 @@
+# Dependencies installed by npm
+node_modules/
+
+# Log files created by question-3/add.js
+Logs/
+
+# macOS system file
+.DS_Store
